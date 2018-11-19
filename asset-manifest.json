@@ -1,13 +1,13 @@
 {
   "main.css": "/static/css/main.31984d5d.chunk.css",
-  "main.js": "/static/js/main.9095fa68.chunk.js",
-  "main.js.map": "/static/js/main.9095fa68.chunk.js.map",
+  "main.js": "/static/js/main.16f60710.chunk.js",
+  "main.js.map": "/static/js/main.16f60710.chunk.js.map",
   "static/css/1.27ac49a7.chunk.css": "/static/css/1.27ac49a7.chunk.css",
   "static/js/1.c7fc1aed.chunk.js": "/static/js/1.c7fc1aed.chunk.js",
   "static/js/1.c7fc1aed.chunk.js.map": "/static/js/1.c7fc1aed.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/mdb.css": "/static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/media/mdb.css": "/static/media/Roboto-Medium.894a2ede.ttf",
   "static/media/display.jpg": "/static/media/display.be081475.jpg",
   "static/media/divineright.png": "/static/media/divineright.12156c51.png",
   "static/media/landmark.png": "/static/media/landmark.c2603d45.png",
@@ -17,6 +17,6 @@
   "static/css/main.31984d5d.chunk.css.map": "/static/css/main.31984d5d.chunk.css.map",
   "static/css/1.27ac49a7.chunk.css.map": "/static/css/1.27ac49a7.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.1440c6ac934d74289e1bf1bf2b698466.js": "/precache-manifest.1440c6ac934d74289e1bf1bf2b698466.js",
+  "precache-manifest.778dbdd4a41c9e69616d4c7e9f000b14.js": "/precache-manifest.778dbdd4a41c9e69616d4c7e9f000b14.js",
   "service-worker.js": "/service-worker.js"
 }
